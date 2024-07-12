@@ -1,10 +1,10 @@
 {
     "type": "ThemeStyle",
     "light": "#ffffff",
-    "onLight": "#050806",
+    "onLight": "#00bc48",
     "dark": "#000000",
     "onDark": "#FBFFF2",
-    "primary": "#0804F6",
+    "primary": "#05f524",
     "onPrimary": "#FBFFF2",
     "secondary": "#FE491F",
     "onSecondary": "#050806",
