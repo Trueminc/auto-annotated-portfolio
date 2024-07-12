@@ -1,5 +1,6 @@
 {
     "type": "Person",
     "firstName": "Anthony",
-    "lastName": "Burns"
+    "lastName": "Burns",
+    "role": "Owner"
 }
