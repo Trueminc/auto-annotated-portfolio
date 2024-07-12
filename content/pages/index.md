@@ -4,7 +4,7 @@ title: Home
 colors: colors-c
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-b
     backgroundSize: full
     title: I’m a solo game developer.
     subtitle: >-
