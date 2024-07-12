@@ -5,7 +5,7 @@ colors: colors-c
 sections:
   - elementId: ''
     colors: colors-a
-    backgroundSize: inset
+    backgroundSize: full
     title: I’m a solo game developer.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
